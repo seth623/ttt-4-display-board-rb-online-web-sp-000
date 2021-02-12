@@ -12,5 +12,5 @@ def display_board(array = [' ','|',' ','|',' ',
            '#{array[4]}','|','#{array[5]}','|','#{array[6]}',
            '-----------------',
            '#{array[8]}','|','#{array[9]}','|','#{array[10]}']
- puts array 
+ puts array
 end
